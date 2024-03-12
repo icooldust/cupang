@@ -1,2 +1,1 @@
-# cupang
-ternak cupang 
+
